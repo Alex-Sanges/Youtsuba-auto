@@ -1,0 +1,17 @@
+/*Частичка Японии в вашем дворе или рядом с вашим окном*/
+.Pht_Cr{
+height:220px;
+width:290px;}
+.Otz{
+display: flex;
+flex-direction: row;
+width:1150px;
+}
+.Name{margin:5px;}
+.Dt{
+	margin-bottom:5px;
+	margin-right:15px;
+}
+.txt{
+	margin:8px;
+}

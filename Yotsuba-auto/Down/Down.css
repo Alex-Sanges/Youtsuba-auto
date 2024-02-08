@@ -1,0 +1,48 @@
+/*ctrl+f5 чистка кэша браузера*/
+.container{
+	max-width:1280px;
+	width: 100%;
+	margin:10px 0;
+	box-sizing: border-box;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.content-between-align-items-center{
+	justify-content: space-between !important;
+	text-align: justify;	 	
+	display: flex;
+	flex-direction: row;
+}
+.red_back{
+	margin: 0 auto;
+	
+}
+.small_button{
+	border: 1px solid black;
+    padding: 1px;
+	background-color:#FF0000;	
+}
+.small_button:hover{
+	background-color:#FFf;	
+}
+#Red-rocket{
+	/*height:30px;*/
+}
+#red_cont{
+	/*line-height: 30px;*/
+	background-color:#FF3330;
+	/*height:30px;*/
+}
+.content{
+	justify-content: space-between !important;
+	text-align: justify;	 	
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+	padding-right: 10px;
+	padding-left: 5px;
+	margin-right: auto;
+	margin-left: auto;
+}

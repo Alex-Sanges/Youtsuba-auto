@@ -1,0 +1,44 @@
+/*Частичка Японии в вашем дворе или рядом с вашим окном или БУ автомобили со всей Японии*/
+.Pht_Cr{
+height:220px;
+width:290px;}
+.Otz{
+display: flex;
+flex-direction: row;
+width:1150px;
+}
+.Name{margin:5px;}
+.Dt{
+	margin-bottom:5px;
+	margin-right:15px;
+}
+.txt{
+	margin:8px;
+}
+.none{
+	display:none;
+}
+.b{
+	margin-left:15px;
+	width:104px;
+	height:40px;
+	font-size:1.2vw;
+}
+.vvod{
+	margin:15px;
+}
+.uncor{
+	display:none;
+	color:red;
+	font-size: 20px;
+}
+.vertical{
+	display: flex;
+	flex-direction: row;
+}
+.info{
+	margin:10px;
+}
+#hidden{
+	display:none;
+}

@@ -1,0 +1,114 @@
+{
+	"goods": [
+		{
+			"title": "VW GOLF II",
+			"price": 40000,
+			"sale": true,
+			"year": 1988,
+			"ad": 745,
+			"img": [
+				"../autos/Vedra/vg1.jpg",
+				"../autos/Vedra/vg2.jpg",
+				"../autos/Vedra/vg3.jpg",
+				"../autos/Vedra/vg4.jpg",
+				"../autos/Vedra/vg5.jpg",
+				"../autos/Vedra/vg6.jpg",
+				"../autos/Vedra/vg7.jpg",
+				"../autos/Vedra/vg8.jpg",
+				"../autos/Vedra/vg9.jpg"
+			],
+			"category": "Хэтчбек"
+		},
+		{
+			"title": "ВАЗ 2107",
+			"price": 50000,
+			"sale": true,
+			"year": 1993,
+			"ad": 414,
+			"img": [
+				"../autos/Vedra/l7_1.jpg",
+				"../autos/Vedra/l7_2.jpg",
+				"../autos/Vedra/l7_3.jpg",
+				"../autos/Vedra/l7_4.jpg",
+				"../autos/Vedra/l7_5.jpg",
+				"../autos/Vedra/l7_6.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "ВАЗ 2114",
+			"price": 110000,
+			"sale": true,
+			"year": 2010,
+			"ad": 173,
+			"img": [
+				"../autos/Vedra/l14_1.jpg",
+				"../autos/Vedra/l14_2.jpg",
+				"../autos/Vedra/l14_3.jpg",
+				"../autos/Vedra/l14_4.jpg"
+			],
+			"category": "Хэтчбек"
+		},
+		{
+			"title": "Hendai Sonata",
+			"price": 300000,
+			"sale": false,
+			"year": 2000,
+			"ad": 245,
+			"img": [
+				"../autos/Vedra/hs1.jpg",
+				"../autos/Vedra/hs2.jpg",
+				"../autos/Vedra/hs3.jpg",
+				"../autos/Vedra/hs4.jpg",
+				"../autos/Vedra/hs5.jpg",
+				"../autos/Vedra/hs6.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "Toyota Previa",
+			"price": 270000,
+			"sale": false,
+			"year": 1990,
+			"ad": 500,
+			"img": [
+				"../autos/Vedra/tp1.jpg",
+				"../autos/Vedra/tp2.jpg",
+				"../autos/Vedra/tp3.jpg",
+				"../autos/Vedra/tp4.jpg",
+				"../autos/Vedra/tp5.jpg"
+			],
+			"category": "Минивэн"
+		},
+		{
+			"title": "ВАЗ 2101",
+			"price": 75000,
+			"sale": false,
+			"year": 1979,
+			"ad": 301,
+			"img": [
+				"../autos/Vedra/l2101_1.jpg",
+				"../autos/Vedra/l2101_2.jpg",
+				"../autos/Vedra/l2101_3.jpg",
+				"../autos/Vedra/l2101_4.jpg",
+				"../autos/Vedra/l2101_5.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "ЛАДА Вис",
+			"price": 80000,
+			"sale": true,
+			"year": 2003,
+			"ad": 179,
+			"img": [
+				"../autos/Vedra/lg1.jpg",
+				"../autos/Vedra/lg2.jpg",
+				"../autos/Vedra/lg3.jpg",
+				"../autos/Vedra/lg4.jpg",
+				"../autos/Vedra/lg5.jpg"
+			],
+			"category": "Спец-транспорт"
+		}
+	]
+}

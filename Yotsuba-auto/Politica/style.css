@@ -1,0 +1,45 @@
+/*Частичка Японии в вашем дворе или рядом с вашим окном*/
+.bg_lg{
+margin-bottom:30px;
+margin-left:10px;
+margin-top:30px;
+font-family: Hitch-hike;
+font-size: 35px;
+font-weight: bold;
+}
+.lg{
+font-family:/*Nautilus Pompilius*/Hitch-hike;
+font-size: 25px;
+font-weight: bold;
+margin-left:10px;
+margin-right:10px;}
+.txt{
+font-family:Nautilus Pompilius;
+/*font-weight: bold;*/
+font-size: 18px;
+margin-left:10px;
+margin-right:10px;
+}
+.txt_p{
+font-family:Nautilus Pompilius;
+margin-left:20px;
+font-size: 18px;
+margin-left:10px;}
+/*@font-face {
+    font-family: 'Intro';
+    src: local('Intro'), url('/Yotsuba-auto/Shrifts/intro.woff2') format('woff2'), url('/Yotsuba-auto/Shrifts/intro.woff') format('woff'), url('/Yotsuba-auto/Shrifts/intro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Nautilus Pompilius';
+    src: local('Nautilus Pompilius'), local('NautilusPompilius'), url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff2') format('woff2'), url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff') format('woff'), url('/Yotsuba-auto/Shrifts/nautiluspompilius.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'christmasscript';
+    src: local('christmasscript'), local('christmasscript'), url('/Yotsuba-auto/Shrifts/christmasscript.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}*/

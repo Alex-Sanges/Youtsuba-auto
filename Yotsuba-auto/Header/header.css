@@ -1,0 +1,76 @@
+/*ctrl+f5 чистка кэша браузера*/
+.container{
+	max-width:1280px;
+	width: 100%;
+	/**/
+	margin:10px 0;
+	box-sizing: border-box;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.content-between-align-items-center{
+	justify-content: space-between !important;
+	text-align: justify;	 	
+	display: flex;
+	flex-direction: row;
+}
+.red_back{
+	margin: 0 auto;
+	
+}
+/*.red_back:hover{
+	background-color:#FFf;
+}*/
+.small_button{
+	border: 1px solid black;
+    padding: 1px;
+	background-color:#FF0000;	
+}
+.small_button:hover{
+	background-color:#FFf;	
+}
+#Red-rocket{
+	height:30px;
+/*position: inherit;
+margin: 10px 0;
+    top: 50%;*/}
+#red_container{
+	line-height: 30px;
+	background-color:#FF3330;
+	height:30px;
+}
+.content{
+	justify-content: space-between !important;
+	text-align: justify;	 	
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+	padding-right: 10px;
+	padding-left: 5px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.banner{
+	max-width:350px;
+	/*display: flex;*/
+	flex-direction: column;
+}
+.Middle{
+	margin-right:30px;
+	width:1150px;
+	background-color:rgba(206,215,217,.2);
+}
+.rightimg{
+	float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px; /* Отступы вокруг картинки */
+}
+.lfttxt{
+	float:left;
+	margin: 25px 25px 0px 25px;
+}
+.collumn{
+	display: flex;
+	flex-direction: column;
+}

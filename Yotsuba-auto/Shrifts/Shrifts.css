@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Intro';
+    src: local('Intro'), url('/Yotsuba-auto/Shrifts/intro.woff2') format('woff2'), url('/Yotsuba-auto/Shrifts/intro.woff') format('woff'), url('/Yotsuba-auto/Shrifts/intro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+/*@font-face {
+    font-family: 'Nautilus Pompilius';
+    src: local('Nautilus Pompilius'), local('NautilusPompilius'), url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff2') format('woff2'), 
+	url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff') format('woff'), 
+	url('/Yotsuba-auto/Shrifts/nautiluspompilius.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}*/
+@font-face {
+  font-family: 'Nautilus Pompilius';
+  src:  url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff2') format('woff2'),
+		url('/Yotsuba-auto/Shrifts/nautiluspompilius.ttf') format('truetype'),
+        url('/Yotsuba-auto/Shrifts/nautiluspompilius.woff') format('woff');
+}
+@font-face {
+    font-family: 'christmasscript';
+    src: local('christmasscript'), local('christmasscript'), url('/Yotsuba-auto/Shrifts/christmasscript.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hitch-hike';
+    src: local('Hitch-hike'), local('Hitch-hike'), url('/Yotsuba-auto/Shrifts/Hitch-hike.otf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MarckScript-Regular';
+    src: local('MarckScript-Regular'), local('MarckScript-Regular'), url('/Yotsuba-auto/Shrifts/MarckScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

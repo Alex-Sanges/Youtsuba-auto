@@ -1,0 +1,271 @@
+{
+	"goods": [
+		{
+			"title": "Niva 4x4",
+			"price": 33990,
+			"sale": false,
+			"img": [
+				"../autos/1.jpg",
+				"../autos/1.1.jpg",
+				"../autos/1.2.jpg",
+				"../autos/1.3.jpg",
+				"../autos/1.4.jpg"
+			],
+			"category": "Джип"
+		},
+		{
+			"title": "Игровая приставка Sony PlayStation 3 Super Slim",
+			"price": 16499,
+			"sale": true,
+			"img": [
+				"https://cdn1.ozone.ru/multimedia/c400/1027495663.jpg",
+				"https://cdn1.ozone.ru/multimedia/c400/1028469540.jpg"
+			],
+			"category": "Игровая приставка"
+		},
+		{
+			"title": "Мусоровозка",
+			"price": 39990,
+			"sale": false,
+			"img": [
+				"../autos/2.jpg",
+				"../autos/2.2.jpg"
+			],
+			"category": "Спец-техника"
+		},
+		{
+			"title": "Ржавый хлам",
+			"price": 911540,
+			"sale": true,
+			"img": [
+				"../autos/3.jpg",
+				"../autos/3.3.jpg"
+			],
+			"category": "Спец-техника"
+		},
+		{
+			"title": "ISUZU SPRINKLER Бочка",
+			"price": 82000,
+			"sale": false,
+			"img": [
+				"../autos/isuzu_tank1.jpg",
+				"../autos/isuzu_tank2.jpg",
+				"../autos/isuzu_tank3.jpg",
+				"../autos/isuzu_tank4.jpg",
+				"../autos/isuzu_tank5.jpg",
+				"../autos/isuzu_tank7.jpg"
+			],
+			"category": "Спец-техника"
+		},
+		{
+			"title": "MAZDA MPV 2002 164000",
+			"price": 92000,
+			"sale": false,
+			"img": [
+				"../autos/5.jpg",
+				"../autos/5.1.jpg",
+				"../autos/5.2.jpg"
+			],
+			"category": "Минивэн"
+		},
+		{
+			"title": "HINO LIESSE ﾏｲｸ Low ﾊﾞｽ",
+			"price": 115000,
+			"sale": false,
+			"img": [
+				"../autos/6.1.jpg",
+				"../autos/6.2.jpg",
+				"../autos/6.3.jpg",
+				"../autos/6.4.jpg",
+				"../autos/6.jpg"
+			],
+			"category": "Спец-техника"
+		},
+		{
+			"title": "DAIHATSU MIRA",
+			"price": 47000,
+			"sale": false,
+			"img": [
+				"../autos/7.jpg",
+				"../autos/7.1.jpg",
+				"../autos/7.2.jpg"
+			],
+			"category": "Минивэн"
+		},
+		{
+			"title": "TOYOTA CALDINA Универсал",
+			"price": 101000,
+			"sale": false,
+			"img": [
+				"../autos/8.jpg",
+				"../autos/8.1.jpg",
+				"../autos/8.2.jpg",
+				"../autos/8.3.jpg"
+			],
+			"category": "Универсал"
+		},
+		{
+			"title": "HONDA LIFE",
+			"price": 39000,
+			"sale": true,
+			"img": [
+				"../autos/9.jpg",
+				"../autos/9.1.jpg",
+				"../autos/9.2.jpg"
+			],
+			"category": "Кей-кар"
+		},
+		{
+			"title": "HONDA STREAM",
+			"price": 78000,
+			"sale": false,
+			"img": [
+				"../autos/10.jpg",
+				"../autos/10.1.jpg",
+				"../autos/10.2.jpg"
+			],
+			"category": "Минивэн"
+		},
+		{
+			"title": "DAIHATSU TANTO",
+			"price": 55000,
+			"sale": false,
+			"img": [
+				"../autos/11.jpg",
+				"../autos/11.1.jpg",
+				"../autos/11.2.jpg"
+			],
+			"category": "Кей-кар"
+		},
+		{
+			"title": "MITSUBISHI PAJERO",
+			"price": 270000,
+			"sale": true,
+			"img": [
+				"../autos/12.jpg",
+				"../autos/12.1.jpg",
+				"../autos/12.2.jpg"
+			],
+			"category": "Джип"
+		},
+		{
+			"title": "TOYOTA WINDOM",
+			"price": 84000,
+			"sale": false,
+			"img": [
+				"../autos/13.jpg",
+				"../autos/13.1.jpg",
+				"../autos/13.2.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "LEXUS LS",
+			"price": 523000,
+			"sale": false,
+			"img": [
+				"../autos/14.jpg",
+				"../autos/14.1.jpg",
+				"../autos/14.2.jpg",
+				"../autos/14.3.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "LEXUS LS",
+			"price": 323000,
+			"sale": false,
+			"img": [
+				"../autos/15.jpg",
+				"../autos/15.1.jpg",
+				"../autos/15.2.jpg",
+				"../autos/15.3.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "LEXUS LS",
+			"price": 400000,
+			"sale": true,
+			"img": [
+				"../autos/16.jpg",
+				"../autos/16.1.jpg",
+				"../autos/16.2.jpg",
+				"../autos/16.3.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "NISSAN CIMA",
+			"price": 91000,
+			"sale": false,
+			"img": [
+				"../autos/17.jpg",
+				"../autos/17.1.jpg",
+				"../autos/17.2.jpg",
+				"../autos/17.3.jpg",
+				"../autos/17.4.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "TOYOTA COASTER",
+			"price": 215000,
+			"sale": false,
+			"img": [
+				"../autos/18.jpg",
+				"../autos/18.1.jpg",
+				"../autos/18.2.jpg",
+				"../autos/18.3.jpg",
+				"../autos/18.4.jpg"
+			],
+			"category": "Спец-техника"
+		},
+		{
+			"title": "DAIHATSU MOVE LATTE",
+			"price": 32000,
+			"sale": true,
+			"img": [
+				"../autos/19.jpg",
+				"../autos/19.1.jpg",
+				"../autos/19.2.jpg",
+				"../autos/19.3.jpg"
+			],
+			"category": "Кей-кар"
+		},
+		{
+			"title": "HONDA ACCORD",
+			"price": 295000,
+			"sale": false,
+			"img": [
+				"../autos/20.jpg",
+				"../autos/20.1.jpg",
+				"../autos/20.2.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "HONDA ACCORD",
+			"price": 232000,
+			"sale": false,
+			"img": [
+				"../autos/21.jpg",
+				"../autos/21.1.jpg",
+				"../autos/21.2.jpg",
+				"../autos/21.3.jpg"
+			],
+			"category": "Седан"
+		},
+		{
+			"title": "HONDA ODYSSEY",
+			"price": 198000,
+			"sale": false,
+			"img": [
+				"../autos/22.jpg",
+				"../autos/22.1.jpg",
+				"../autos/22.2.jpg"
+			],
+			"category": "Универсал"
+		}
+	]
+}
