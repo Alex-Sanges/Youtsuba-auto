@@ -1,0 +1,75 @@
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\1\1\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\1\1\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\1\1\obj\Debug\1_MarkupCompile.cache
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.g.resources
+C:\Users\Alex\source\repos\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\1\1\bin\Debug\1.exe.config
+C:\Users\Alex\source\repos\1\1\bin\Debug\1.exe
+C:\Users\Alex\source\repos\1\1\bin\Debug\1.pdb
+C:\Users\Alex\source\repos\1\1\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\1\1\obj\Debug\1_MarkupCompile.lref
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.exe
+C:\Users\Alex\source\repos\1\1\obj\Debug\1.pdb
+E:\Тузова4курс\Мой долг\1\1\bin\Debug\1.exe.config
+E:\Тузова4курс\Мой долг\1\1\bin\Debug\1.exe
+E:\Тузова4курс\Мой долг\1\1\bin\Debug\1.pdb
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csprojAssemblyReference.cache
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\MainWindow.g.cs
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\App.g.cs
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1_MarkupCompile.cache
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1_MarkupCompile.lref
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\MainWindow.baml
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.g.resources
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\_1.Properties.Resources.resources
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csproj.GenerateResource.cache
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.exe
+E:\Тузова4курс\Мой долг\1\1\obj\Debug\1.pdb
+K:\Тузова4курс\Мой долг\1\1\bin\Debug\1.exe.config
+K:\Тузова4курс\Мой долг\1\1\bin\Debug\1.exe
+K:\Тузова4курс\Мой долг\1\1\bin\Debug\1.pdb
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csprojAssemblyReference.cache
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\MainWindow.g.cs
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\App.g.cs
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1_MarkupCompile.cache
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1_MarkupCompile.lref
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\MainWindow.baml
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.g.resources
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\_1.Properties.Resources.resources
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csproj.GenerateResource.cache
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.exe
+K:\Тузова4курс\Мой долг\1\1\obj\Debug\1.pdb
+C:\Users\Alex\Desktop\1\1\bin\Debug\1.exe.config
+C:\Users\Alex\Desktop\1\1\bin\Debug\1.exe
+C:\Users\Alex\Desktop\1\1\bin\Debug\1.pdb
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\1\1\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\1\1\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\1\1\obj\Debug\1_MarkupCompile.cache
+C:\Users\Alex\Desktop\1\1\obj\Debug\1_MarkupCompile.lref
+C:\Users\Alex\Desktop\1\1\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.g.resources
+C:\Users\Alex\Desktop\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.exe
+C:\Users\Alex\Desktop\1\1\obj\Debug\1.pdb
+C:\Users\Alex\Desktop\sas\Napitki\1\bin\Debug\1.exe.config
+C:\Users\Alex\Desktop\sas\Napitki\1\bin\Debug\1.exe
+C:\Users\Alex\Desktop\sas\Napitki\1\bin\Debug\1.pdb
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1_MarkupCompile.cache
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1_MarkupCompile.lref
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.g.resources
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.exe
+C:\Users\Alex\Desktop\sas\Napitki\1\obj\Debug\1.pdb
